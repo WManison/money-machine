@@ -24,3 +24,5 @@ This is all up to be changed as project evolves:
 - JavaScript - GUI
 - HTTML/CSS - browser-based local app
 - Bash - automation scripts
+- Django 
+
